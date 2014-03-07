@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExtensionObject Label="UtilizationPlanner" Description="plan remaining billability in the quarter" PageHeight="50000">
+	<Initiate Name="Chart.Title" value="Utilization Planner" />
+	<Initiate Name="Caption.Text" Value="Utilization Planner" />
+	
+	<Initiate Name="Chart.Text.0.Content" Value="0" />
+    <Initiate Name="Chart.Text.1.Content" Value="0" />
+    <Initiate Name="Chart.Text.2.Content" Value="0" />
+    <Initiate Name="Chart.Text.3.Content" Value="0" />
+     
+   <Text Label="Hours Completed" Type="text" />
+  
+   <Text Label="Hours Remaining" Type="text" />
+   
+   <Text Label="Total Capacity" Type="text" />
+   
+   <Text Label="Last Week Start Date" Type="text" />
+  
+  </ExtensionObject>
+
+
+

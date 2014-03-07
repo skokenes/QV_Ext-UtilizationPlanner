@@ -1,0 +1,19 @@
+﻿.chart {
+	font: 10px sans-serif;
+}
+
+.chart svg {
+   text-align: right;
+   padding: 3px;
+   margin: 1px;
+}
+
+.vbar {
+   fill: RGB(146,197,222);
+}
+
+.capbar {
+   fill: #DADADA;
+}
+
+
